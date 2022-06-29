@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:white;
+  }
+  .container {
+      background-color: #84D9BA;
+  }
+  .row{
+      margin-top:50px;
+  }
+  .col-md-4{
+      margin-bottom:70px;
+  }
+    
